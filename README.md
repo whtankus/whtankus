@@ -1,17 +1,20 @@
-# Hi, I'm Ankush 👋
-**Backend Developer • Java & Spring Boot**
+<h2 align="center">Hi, I'm Ankush 👋</h2>
+<p align="center">Backend Developer • Java & Spring Boot</p>
 
-![Skills](https://skillicons.dev/icons?i=java,spring,git,docker,mysql,postgres,postman,js,html,css)
-
----
-
-## 👨‍💻 About
-Backend developer focused on Java and Spring Boot, building scalable APIs,  
-clean systems, reliable databases — bonus: I love cats.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,git,docker,mysql,postgres,postman,js,html,css" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### About Me
+Backend developer focused on Java and Spring Boot.  
+I build scalable APIs, clean systems, and reliable databases.  
+Bonus: I love cats 🐱
+
+---
+
+### Tech Stack
 - **Languages:** Java, JavaScript  
 - **Backend:** Spring Boot  
 - **Databases:** MySQL, PostgreSQL  
@@ -20,4 +23,5 @@ clean systems, reliable databases — bonus: I love cats.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-read
