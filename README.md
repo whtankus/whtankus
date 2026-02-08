@@ -12,13 +12,39 @@
 <p align="center">
   <strong>Backend Developer • Java & Spring Boot</strong>
 </p>
-
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=java,spring,git,docker,mysql,postgres,postman,js,html,css"
-    alt="skills"
-  />
+  <a href="https://www.google.com/search?q=what+is+java" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+  <a href="https://www.google.com/search?q=what+is+spring+boot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+  </a>
+  <a href="https://www.google.com/search?q=what+is+git" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://www.google.com/search?q=what+is+docker" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://www.google.com/search?q=what+is+mysql" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.google.com/search?q=what+is+postgresql" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.google.com/search?q=what+is+postman+api" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  </a>
+  <a href="https://www.google.com/search?q=what+is+javascript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.google.com/search?q=what+is+html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://www.google.com/search?q=what+is+css" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
 </p>
+
 
 ---
 
