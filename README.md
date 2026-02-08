@@ -1,10 +1,12 @@
+
 <h2 align="center">
   Hi, I'm Ankush
-  <img 
-    src="https://media.giphy.com/media/WDH0KOD68mVzqTrfFr/giphy.gif" 
-    width="32" 
-    alt="wave"
+  <img
+    src="https://media.giphy.com/media/WDH0KOD68mVzqTrfFr/giphy.gif"
+    width="32"
+    alt="hello"
   />
+ 
 </h2>
 
 <p align="center">
@@ -12,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=java,spring,git,docker,mysql,postgres,postman,js,html,css" 
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,git,docker,mysql,postgres,postman,js,html,css"
     alt="skills"
   />
 </p>
@@ -23,7 +25,15 @@
 ### 👨‍💻 About Me
 Backend developer focused on Java and Spring Boot.  
 I build scalable APIs, clean systems, and reliable databases.  
-Bonus: I love cat
+Bonus: I love cats <img
+  src="https://media.giphy.com/media/kdGU4foZUlnos/giphy.gif"
+  width="26"
+  alt="cat"
+/>
+
+  
+
+
 
 ---
 
@@ -33,4 +43,3 @@ Bonus: I love cat
 - **Databases:** MySQL, PostgreSQL  
 - **Tools:** Git, Docker, Postman  
 - **Frontend basics:** HTML, CSS  
-
