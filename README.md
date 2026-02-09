@@ -37,10 +37,6 @@ Bonus: I love cats <img
   alt="cat"
 />
 
-  
-
-
-
 ---
 
 ### 🧰 Tech Stack
@@ -50,12 +46,16 @@ Bonus: I love cats <img
 - **Tools:** Git, Docker, Postman  
 - **Frontend basics:** HTML, CSS
 
+----
+
+<br><br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Working-2ea44f?style=flat&labelColor=000000&color=2ea44f&logo=&logoColor=white&borderRadius=12" />
-
+  <img src="https://img.shields.io/badge/Status-Working-2ea44f?style=flat&labelColor=000000&color=2ea44f&borderRadius=12" />
   <img src="https://img.shields.io/badge/Post-Backend%20Developer-6f42c1?style=flat&labelColor=000000&color=2ea44f&borderRadius=12" />
-
-  <img src="https://img.shields.io/badge/Email-ank2424744%40gmail.com-0a66c2?style=flat&labelColor=000000&color=2ea44f&borderRadius=12" />
+  <a href="mailto:ank2464755@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ank2464755%40gmail.com-0a66c2?style=flat&labelColor=000000&color=2ea44f&borderRadius=12" />
+  </a>
 </p>
 
 
