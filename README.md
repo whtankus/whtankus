@@ -14,16 +14,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.google.com/search?q=what+is+java" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-  <a href="https://www.google.com/search?q=what+is+spring+boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/></a>
-  <a href="https://www.google.com/search?q=what+is+git" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-  <a href="https://www.google.com/search?q=what+is+docker" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
-  <a href="https://www.google.com/search?q=what+is+mysql" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
-  <a href="https://www.google.com/search?q=what+is+postgresql" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></a>
-  <a href="https://www.google.com/search?q=what+is+postman+api" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
-  <a href="https://www.google.com/search?q=what+is+javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-  <a href="https://www.google.com/search?q=what+is+html" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
-  <a href="https://www.google.com/search?q=what+is+css" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+  <a href="https://en.wikipedia.org/wiki/Spring_Boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/></a>
+  <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+  <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+  <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></a>
+  <a href="https://en.wikipedia.org/wiki/Postman_(API_platform)" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
 </p>
 
 ---
