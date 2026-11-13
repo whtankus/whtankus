@@ -4,7 +4,7 @@
 
 # Hi, I'm Ankush 👋
 
-### Java Backend Developer | Spring Boot | REST APIs
+### Aspiring Java Backend Developer | Spring Boot | REST APIs
 
 I build practical applications, explore backend engineering, and learn by shipping projects.
 
@@ -74,7 +74,11 @@ A mobile-friendly shared scrapbook built with JavaScript and Supabase.
 
 [![Ankush's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whtankus&theme=github-compact&hide_border=true)](https://github.com/whtankus)
 
-![Contribution snake](https://raw.githubusercontent.com/whtankus/whtankus/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whtankus/whtankus/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whtankus/whtankus/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/whtankus/whtankus/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
