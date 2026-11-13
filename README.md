@@ -1,67 +1,96 @@
-<!--
-  GitHub profile README for @whtankus.
-  Keep project links and technology claims accurate as your work evolves.
--->
+<!-- Profile README: https://github.com/whtankus -->
 
-<h1 align="center">Hi, I'm Ankush 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Java Backend Developer</strong><br/>
-  Building reliable APIs and practical backend applications with Java and Spring Boot.
-</p>
+# Hi, I'm Ankush 👋
 
-<p align="center">
-  <a href="mailto:ank2464755@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ankush"/>
-  </a>
-  <a href="https://github.com/whtankus">
-    <img src="https://img.shields.io/badge/GitHub-whtankus-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
-</p>
+### Java Backend Developer | Spring Boot | REST APIs
+
+I build practical applications, explore backend engineering, and learn by shipping projects.
+
+[![Email](https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ank2464755@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-whtankus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtankus)
+
+</div>
 
 ---
 
 ## About me
 
-- Focused on **Java backend development** and the Spring ecosystem.
-- Interested in designing clean REST APIs, working with relational databases, and building maintainable services.
-- Continuously learning through hands-on projects and problem solving.
-- Cat enthusiast. 🐈
+- Focused on **Java, Spring Boot, and backend development**.
+- Learning to design maintainable REST APIs and work with relational databases.
+- Interested in software architecture, problem solving, and building useful products.
+- Currently building and improving **Cute Bunny**, a shared scrapbook web app.
 
 ## Tech stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,postman,maven,js,html,css&perline=6" alt="Technologies: Java, Spring, MySQL, PostgreSQL, Docker, Git, Postman, Maven, JavaScript, HTML and CSS"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,postman,maven,js,html,css&perline=6" alt="Java, Spring, MySQL, PostgreSQL, Docker, Git, GitHub, Postman, Maven, JavaScript, HTML and CSS"/>
 </p>
 
 | Area | Technologies |
 |---|---|
-| Language | Java, JavaScript |
+| Languages | Java, JavaScript |
 | Backend | Spring Boot, REST APIs |
-| Databases | MySQL, PostgreSQL |
-| Tools | Git, Docker, Postman, Maven |
-| Web fundamentals | HTML, CSS |
+| Databases | MySQL, PostgreSQL, Supabase |
+| Tools | Git, GitHub, Docker, Postman, Maven |
+| Web | HTML, CSS |
 
-## Featured projects
+## Featured project
 
-> A good profile is strongest when it showcases real work. Add your best repositories here as they become ready.
+<a href="https://github.com/whtankus/Cute-bunny">
+  <img align="right" width="120" src="https://raw.githubusercontent.com/whtankus/Cute-bunny/main/bunny-app-icon-192.png" alt="Cute Bunny app icon"/>
+</a>
 
-<!-- Replace the placeholders below with real repository URLs and concise descriptions. -->
-- **Project 1** — Add a short description of the problem, implementation, and technologies.
-- **Project 2** — Highlight another useful application or backend service.
-- **Project 3** — Showcase a project demonstrating database design, API development, or testing.
+### [Cute Bunny](https://github.com/whtankus/Cute-bunny)
 
-## What I'm focusing on
+A mobile-friendly shared scrapbook built with JavaScript and Supabase.
 
-- Writing clean, maintainable Java code.
-- Building RESTful services with Spring Boot.
-- Improving SQL and database design skills.
-- Strengthening problem-solving and software engineering fundamentals.
+- Shared notes, photos, and audio
+- User profiles, authentication, and friend connections
+- Private media storage and database access protected by Row Level Security
+- Responsive interface and installable web app
+
+**Stack:** JavaScript · Supabase Auth · PostgreSQL · Supabase Storage · GitHub Pages
+
+[Explore the repository →](https://github.com/whtankus/Cute-bunny)
+
+<br clear="right"/>
+
+## GitHub statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=whtankus&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtankus&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=whtankus&theme=transparent&hide_border=true)](https://github.com/whtankus)
+
+</div>
+
+## Contribution activity
+
+<div align="center">
+
+[![Ankush's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whtankus&theme=github-compact&hide_border=true)](https://github.com/whtankus)
+
+![Contribution snake](https://raw.githubusercontent.com/whtankus/whtankus/output/github-contribution-grid-snake.svg)
+
+</div>
+
+## Current focus
+
+- Strengthening Java and Spring Boot fundamentals.
+- Building and documenting backend projects.
+- Practicing data structures, algorithms, and SQL.
+- Improving code quality, testing, and deployment skills.
 
 ---
 
-<p align="center">
-  <a href="mailto:ank2464755@gmail.com">ank2464755@gmail.com</a>
-  <br/>
-  <sub>Keep learning. Keep building. Keep improving.</sub>
-</p>
+<div align="center">
+
+**Keep learning. Keep building. Keep improving.**
+
+[GitHub](https://github.com/whtankus) · [Email](mailto:ank2464755@gmail.com)
+
+</div>
