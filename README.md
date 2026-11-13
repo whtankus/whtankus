@@ -1,61 +1,67 @@
+<!--
+  GitHub profile README for @whtankus.
+  Keep project links and technology claims accurate as your work evolves.
+-->
 
-<h2 align="center">
-  Hi, I'm Ankush
-  <img
-    src="https://media.giphy.com/media/WDH0KOD68mVzqTrfFr/giphy.gif"
-    width="32"
-    alt="hello"
-  />
- 
-</h2>
+<h1 align="center">Hi, I'm Ankush 👋</h1>
 
 <p align="center">
-  <strong>Backend Developer • Java & Spring Boot</strong>
+  <strong>Java Backend Developer</strong><br/>
+  Building reliable APIs and practical backend applications with Java and Spring Boot.
 </p>
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-  <a href="https://en.wikipedia.org/wiki/Spring_Boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/></a>
-  <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-  <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
-  <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
-  <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></a>
-  <a href="https://en.wikipedia.org/wiki/Postman_(API_platform)" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
-</p>
-
----
-
-### 👨‍💻 About Me
-Backend developer focused on Java and Spring Boot.  
-I build scalable APIs, clean systems, and reliable databases.  
-Bonus: I love cats <img
-  src="https://media.giphy.com/media/kdGU4foZUlnos/giphy.gif"
-  width="26"
-  alt="cat"
-/>
-
----
-
-### 🧰 Tech Stack
-- **Languages:** Java, JavaScript  
-- **Backend:** Spring Boot  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, Docker, Postman  
-- **Frontend basics:** HTML, CSS
-
-----
-
-<br><br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Working-2ea44f?style=flat&labelColor=000000&color=2ea44f&borderRadius=12" />
-  <img src="https://img.shields.io/badge/Post-Backend%20Developer-6f42c1?style=flat&labelColor=000000&color=2ea44f&borderRadius=12" />
   <a href="mailto:ank2464755@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ank2464755%40gmail.com-0a66c2?style=flat&labelColor=000000&color=2ea44f&borderRadius=12" />
+    <img src="https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ankush"/>
+  </a>
+  <a href="https://github.com/whtankus">
+    <img src="https://img.shields.io/badge/GitHub-whtankus-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
 </p>
 
+---
 
+## About me
+
+- Focused on **Java backend development** and the Spring ecosystem.
+- Interested in designing clean REST APIs, working with relational databases, and building maintainable services.
+- Continuously learning through hands-on projects and problem solving.
+- Cat enthusiast. 🐈
+
+## Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,postman,maven,js,html,css&perline=6" alt="Technologies: Java, Spring, MySQL, PostgreSQL, Docker, Git, Postman, Maven, JavaScript, HTML and CSS"/>
+</p>
+
+| Area | Technologies |
+|---|---|
+| Language | Java, JavaScript |
+| Backend | Spring Boot, REST APIs |
+| Databases | MySQL, PostgreSQL |
+| Tools | Git, Docker, Postman, Maven |
+| Web fundamentals | HTML, CSS |
+
+## Featured projects
+
+> A good profile is strongest when it showcases real work. Add your best repositories here as they become ready.
+
+<!-- Replace the placeholders below with real repository URLs and concise descriptions. -->
+- **Project 1** — Add a short description of the problem, implementation, and technologies.
+- **Project 2** — Highlight another useful application or backend service.
+- **Project 3** — Showcase a project demonstrating database design, API development, or testing.
+
+## What I'm focusing on
+
+- Writing clean, maintainable Java code.
+- Building RESTful services with Spring Boot.
+- Improving SQL and database design skills.
+- Strengthening problem-solving and software engineering fundamentals.
+
+---
+
+<p align="center">
+  <a href="mailto:ank2464755@gmail.com">ank2464755@gmail.com</a>
+  <br/>
+  <sub>Keep learning. Keep building. Keep improving.</sub>
+</p>
