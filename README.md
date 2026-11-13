@@ -25,7 +25,18 @@ I build practical applications, explore backend engineering, and learn by shippi
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,postman,maven,js,html,css&perline=6" alt="Java, Spring, MySQL, PostgreSQL, Docker, Git, GitHub, Postman, Maven, JavaScript, HTML and CSS"/>
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" title="Java — Wikipedia"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/Spring_Framework" title="Spring Framework — Wikipedia"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/MySQL" title="MySQL — Wikipedia"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL" title="PostgreSQL — Wikipedia"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/Docker_(software)" title="Docker — Wikipedia"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/Git" title="Git — Wikipedia"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/GitHub" title="GitHub — Wikipedia"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/Postman_(software)" title="Postman — Wikipedia"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/Apache_Maven" title="Apache Maven — Wikipedia"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript — Wikipedia"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" title="HTML — Wikipedia"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" title="CSS — Wikipedia"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48"/></a>
 </p>
 
 | Area | Technologies |
