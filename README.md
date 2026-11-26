@@ -1,111 +1,90 @@
-<!-- Profile README: https://github.com/whtankus -->
+<!-- Compact profile README. Personal details intentionally omitted. -->
 
 <div align="center">
 
-# Hi, I'm Ankush 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:080d1b,35:142a4b,70:253d67,100:0b1327&text=BUILD%20THE%20FUTURE&fontColor=e8f3ff&fontSize=34&fontAlignY=42&desc=SOFTWARE%20%2F%20SYSTEMS%20%2F%20EXPERIMENTS&descAlignY=65&descSize=11&animation=fadeIn" alt="Build the future banner"/>
 
-### Aspiring Java Backend Developer | Spring Boot | REST APIs
+### DIGITAL WORKSPACE
+**Code · Create · Iterate**
 
-I build practical applications, explore backend engineering, and learn by shipping projects.
+<a href="https://github.com/whtankus?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-8bd5ff?style=for-the-badge&labelColor=101a2d" alt="Explore projects"/></a>
+<a href="https://github.com/whtankus"><img src="https://img.shields.io/badge/GITHUB-OPEN%20PROFILE-c5a8ff?style=for-the-badge&labelColor=101a2d&logo=github&logoColor=white" alt="Open GitHub profile"/></a>
 
-[![Email](https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ank2464755@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-whtankus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtankus)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=850&color=8BD5FF&center=true&vCenter=true&width=520&lines=ENGINEERING+USEFUL+SOFTWARE;DESIGNING+CLEAN+BACKEND+SYSTEMS;EXPLORING+NEW+TECHNOLOGIES;TURNING+IDEAS+INTO+CODE" alt="Animated engineering phrases"/>
 
 </div>
 
 ---
 
-## About me
-
-- Focused on **Java, Spring Boot, and backend development**.
-- Learning to design maintainable REST APIs and work with relational databases.
-- Interested in software architecture, problem solving, and building useful products.
-- Currently building and improving **Cute Bunny**, a shared scrapbook web app.
-
-## Tech stack
-
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" title="Java — Wikipedia"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/Spring_Framework" title="Spring Framework — Wikipedia"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/MySQL" title="MySQL — Wikipedia"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/PostgreSQL" title="PostgreSQL — Wikipedia"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/Docker_(software)" title="Docker — Wikipedia"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/Git" title="Git — Wikipedia"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/GitHub" title="GitHub — Wikipedia"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/Postman_(software)" title="Postman — Wikipedia"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/Apache_Maven" title="Apache Maven — Wikipedia"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript — Wikipedia"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/HTML" title="HTML — Wikipedia"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48"/></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" title="CSS — Wikipedia"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48"/></a>
-</p>
-
-| Area | Technologies |
-|---|---|
-| Languages | Java, JavaScript |
-| Backend | Spring Boot, REST APIs |
-| Databases | MySQL, PostgreSQL, Supabase |
-| Tools | Git, GitHub, Docker, Postman, Maven |
-| Web | HTML, CSS |
-
-## Featured project
-
-<a href="https://github.com/whtankus/Cute-bunny">
-  <img align="right" width="120" src="https://raw.githubusercontent.com/whtankus/Cute-bunny/main/bunny-app-icon-192.png" alt="Cute Bunny app icon"/>
-</a>
-
-### [Cute Bunny](https://github.com/whtankus/Cute-bunny)
-
-A mobile-friendly shared scrapbook built with JavaScript and Supabase.
-
-- Shared notes, photos, and audio
-- User profiles, authentication, and friend connections
-- Private media storage and database access protected by Row Level Security
-- Responsive interface and installable web app
-
-**Stack:** JavaScript · Supabase Auth · PostgreSQL · Supabase Storage · GitHub Pages
-
-[Explore the repository →](https://github.com/whtankus/Cute-bunny)
-
-<br clear="right"/>
-
-## GitHub statistics
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=whtankus&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtankus&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages"/>
+### ◈ TECHNOLOGY MATRIX
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=whtankus&theme=transparent&hide_border=true)](https://github.com/whtankus)
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,supabase,docker,git,github,maven&theme=dark&perline=6" alt="Technology icons"/>
 
 </div>
 
-## Contribution activity
+### ◈ SELECTED BUILDS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 / CUTE BUNNY**
+
+A shared digital scrapbook for notes, photos and meaningful moments.
+
+`JAVASCRIPT` `SUPABASE` `POSTGRESQL`
+
+<a href="https://github.com/whtankus/Cute-bunny">VIEW PROJECT ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+**02 / ORBIT**
+
+An interactive space observatory featuring a 3D Solar System, galaxy atlas, planetarium and cosmic timeline.
+
+`THREE.JS` `JAVASCRIPT` `ASTRONOMY`
+
+<a href="https://github.com/whtankus/Orbit">VIEW PROJECT ↗</a>
+
+</td>
+</tr>
+</table>
+
+### ◈ ENGINEERING INTERESTS
 
 <div align="center">
 
-[![Ankush's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whtankus&theme=github-compact&hide_border=true)](https://github.com/whtankus)
+`BACKEND SYSTEMS` &nbsp; `API DESIGN` &nbsp; `DATABASES`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whtankus/whtankus/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whtankus/whtankus/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/whtankus/whtankus/output/github-contribution-grid-snake.svg"/>
-</picture>
+`SOFTWARE ARCHITECTURE` &nbsp; `INTERACTIVE 3D`
+
+`AUTOMATION` &nbsp; `OPEN SOURCE` &nbsp; `EXPERIMENTAL UI`
 
 </div>
-
-## Current focus
-
-- Strengthening Java and Spring Boot fundamentals.
-- Building and documenting backend projects.
-- Practicing data structures, algorithms, and SQL.
-- Improving code quality, testing, and deployment skills.
 
 ---
 
 <div align="center">
 
-**Keep learning. Keep building. Keep improving.**
+### ◈ ACTIVITY SIGNAL
 
-[GitHub](https://github.com/whtankus) · [Email](mailto:ank2464755@gmail.com)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=whtankus&bg_color=0b1220&color=9acbff&line=73bfff&point=e8f4ff&area=true&area_color=244a75&hide_border=true&custom_title=RECENT%20CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph"/>
+
+<img src="https://streak-stats.demolab.com?user=whtankus&theme=transparent&hide_border=true&ring=8bd5ff&fire=c5a8ff&currStreakLabel=8bd5ff&sideLabels=93a9c7&dates=7186a4" alt="Contribution streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/whtankus/whtankus/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+
+<sub><code>STATUS: BUILDING / LEARNING / SHIPPING</code></sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1327,50:172c4c,100:080d1b&height=95&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
